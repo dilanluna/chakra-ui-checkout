@@ -62,7 +62,7 @@ function Form() {
         <Button
           size="lg"
           width="full"
-          colorScheme="brand">
+          variant="primary">
           Place Order
         </Button>
       </GridItem>
